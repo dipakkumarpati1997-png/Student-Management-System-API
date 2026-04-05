@@ -1,5 +1,4 @@
-
-# Student Management System API
+﻿# Student Management System API
 
 Hi,
 This is a simple backend project I built using ASP.NET Core Web API to practice real-world backend development.
