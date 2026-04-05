@@ -125,7 +125,12 @@ I have added custom middleware for handling exceptions globally.
 * Code is structured for better readability
 
 
+## Database Setup
 
+1. Open SQL Server
+2. Create a new database
+3. Run the Database.sql file
+4. All tables and stored procedures will be created
 ---
 
 ## Author
